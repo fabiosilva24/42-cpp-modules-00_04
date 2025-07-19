@@ -75,11 +75,11 @@ Check out the Makefiles and source code—many exercises already use colored out
 Feel free to add even more color to make your experience enjoyable!
 
 ---
+## 📝 License
 
-## 🔗 License & Contribution
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project is for educational purposes and follows the 42 school curriculum.  
-Feel free to fork, star, and contribute!
 
 ---
 
