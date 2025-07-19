@@ -79,6 +79,10 @@ Feel free to add even more color to make your experience enjoyable!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for more details.  
+© 2025 Fabio Silva
+
 This project is for educational purposes and follows the 42 school curriculum.  
 
 ---
