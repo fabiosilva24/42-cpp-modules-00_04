@@ -81,7 +81,7 @@ Feel free to add even more color to make your experience enjoyable!
 
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for more details.  
-© 2025 Fabio Silva
+© 2025 Fábio Bastos
 
 This project is for educational purposes and follows the 42 school curriculum.  
 
